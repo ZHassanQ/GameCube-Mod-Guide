@@ -1,5 +1,5 @@
 # GameCube-Mod-Guide
-This is a repository contains a guide for how to mod your Nintendo GameCube. Please note that you will need to solder your GameCube meaning that you will need to either purchase [GC-Loader PNP](https://gc-loader.com/product/gc-loader-pnp/) or buy a custom $4 Raspberry Pi Pico board.
+This is a repository contains a guide to how to mod your Nintendo GameCube. Please note that you will need to solder your GameCube meaning that you will need to either purchase [GC-Loader PNP](https://gc-loader.com/product/gc-loader-pnp/) or buy a custom $4 Raspberry Pi Pico board.
 
 ## Mods, Apps, Credits
 
