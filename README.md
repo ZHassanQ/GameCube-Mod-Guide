@@ -10,7 +10,6 @@ This is a repository contains a guide for how to mod your Nintendo GameCube. Ple
 
 - [swiss-gc](https://github.com/emukidid/swiss-gc) The swiss army knife of GameCube homebrew. [emukidid](https://github.com/emukidid/) - [Patreon](http://patreon.com/emu_kidid) -- [Extremes](https://github.com/Extrems) - [Patreon](https://patreon.com/Extrems)
 - [SD2SP2](https://github.com/citrus3000psi/SD2SP2) Micro SD Card Adapter for Gamecube's Serial Port 2. [citrus3000psi](https://github.com/citrus3000psi)
+- [SDGecko](https://www.gc-forever.com/wiki/index.php?title=SDGecko) A device connects the SD card pins to the Gamecube memory card port pins.
 
 ---
-
-SDGecko
