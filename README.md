@@ -1,2 +1,2 @@
 # GameCube-Mod-Guide
-This is a repository contains a guide for how to install CFW (Custom Firmware) on your Nintendo GameCube.
+This is a repository contains a guide for how to mod your Nintendo GameCube.
